@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Yutai Sun (孙宇泰)
+# Yutai Sun
 
 [Email](mailto:ytsun@seu.edu.cn) / [Google Scholar](#) / [GitHub](#) / [LinkedIn](#)
 
