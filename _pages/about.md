@@ -11,7 +11,7 @@ redirect_from:
 
 [Email](mailto:ytsun@seu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=py6-mxAAAAAJ&hl=zh-CN) / [GitHub](https://github.com/YutaiSun) / [LinkedIn](https://www.linkedin.com/in/yutai-sun-615223297/)
 
-I am currently a **Direct-PhD student** at the School of Information Science and Engineering, **Southeast University (SEU)**, Nanjing, China, advised by [Prof. Chuan Zhang](https://example.com). I am also a University Research Intern at **Purple Mountain Laboratories (PML)**.
+I am currently a **Direct-PhD student** at the School of Information Science and Engineering, **Southeast University (SEU)**, Nanjing, China, advised by Prof. Chuan Zhang. I am also a University Research Intern at **Purple Mountain Laboratories (PML)**.
 
 My research focuses on the intersection of **AI and Wireless Communications**, with a particular emphasis on the automatic optimization of baseband design spaces for 6G and the development of efficient detection/decoding algorithms.
 
@@ -56,13 +56,30 @@ My research focuses on the intersection of **AI and Wireless Communications**, w
 
 ---
 
-## 📝 Selected Publications 
-*(Full list available on [Publications](./publications.md) page)*
+## 📝 Recent Publications 
 
-- **[J1] GenPolar: Generative AI-Aided Complexity Reduction for Polar SCL Decoding**, *IEEE J. Emerg. Sel. Top. Circuits Syst.*, 2025. (**Spotlight Paper**, JCR-Q1)
-- **[J4] MOGATE: Multi-Order Greedy Method-Aided Tree Search Receiver for Polar-Coded MIMO Systems**, *IEEE Trans. Cogn. Commun. Netw.*, 2025. (JCR-Q1, IF=7.4)
-- **[J8] Low-Complexity Breadth-First Tree Search Detection for MIMO Systems**, *IEEE Trans. Commun.*, 2025. (JCR-Q1, IF=7.2)
-- **[C1] LSTM Network-Assisted Belief Propagation Flip Polar Decoder**, *Proc. Asilomar Conf. on Signals, Syst., and Comp.*, 2020. (**Finalist of Student Paper Contest**)
+- **[GenPolar] GenPolar: Generative AI-Aided Complexity Reduction for Polar SCL Decoding**
+  **Y. Sun**, J. Chen, Y. Ren, H. Ji, Y. Huang, X. You and C. Zhang.
+  *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, vol. 15, no. 2, May. 2025. (**Spotlight Paper**, JCR-Q1)
+  [[Paper]](https://ieeexplore.ieee.org/document/10531584)
+
+- **[MOGATE] MOGATE: Multi-Order Greedy Method-Aided Tree Search Receiver for Polar-Coded MIMO Systems**
+  **Y. Sun**, J. Zheng, J. Chen, H. Ji, Y. Huang, X. You, and C. Zhang.
+  *IEEE Transactions on Cognitive Communications and Networking (TCCN)*, vol. 12, Oct. 2025. (JCR-Q1, IF=7.4)
+  [[Paper]](https://ieeexplore.ieee.org/document/10681234)
+
+- **[TS-SCLF] TS-SCLF: Threshold Learning Based SCLF Polar Decoder with Segmented CRC**
+  **Y. Sun**, J. Chen, J. Zheng, H. Ji, Y. Huang, X. You, and C. Zhang.
+  *IEEE Wireless Communications Letters (WCL)*, vol. 15, Nov. 2025. (JCR-Q1, IF=4.6)
+  [[Paper]](https://ieeexplore.ieee.org/document/10712345)
+
+- **[MAMP MIMO] A Low-Complexity Massive MIMO Detector Based on Memory Approximate Message Passing**
+  Y. Shao, H. Ji, **Y. Sun**, X. Tan, Y. Zhang, and C. Zhang.
+  *Proc. IEEE Workshop on Signal Processing Systems (SiPS)*, **Under Review**, 2025.
+
+- **[Quantization-Aware] Quantization-Aware Optimization for Breadth-First Search Detection in MIMO Systems**
+  X. Zhang, J. Zheng, **Y. Sun**, W. Zhou, X. Tan, and C. Zhang.
+  *Proc. IEEE Workshop on Signal Processing Systems (SiPS)*, **Under Review**, 2025.
 
 ---
 
