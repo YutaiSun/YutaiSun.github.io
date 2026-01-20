@@ -9,7 +9,7 @@ redirect_from:
 
 # Yutai Sun
 
-[Email](mailto:ytsun@seu.edu.cn) / [Google Scholar](#) / [GitHub](#) / [LinkedIn](#)
+[Email](mailto:ytsun@seu.edu.cn) / [Google Scholar](https://scholar.google.com/citations?user=py6-mxAAAAAJ&hl=zh-CN) / [GitHub](https://github.com/YutaiSun) / [LinkedIn](https://www.linkedin.com/in/yutai-sun-615223297/)
 
 I am currently a **Direct-PhD student** at the School of Information Science and Engineering, **Southeast University (SEU)**, Nanjing, China, advised by [Prof. Chuan Zhang](https://example.com). I am also a University Research Intern at **Purple Mountain Laboratories (PML)**.
 
