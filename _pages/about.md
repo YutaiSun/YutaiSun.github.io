@@ -29,30 +29,13 @@ My research focuses on the intersection of **AI and Wireless Communications**, w
 - **6G Baseband Design:** Automatic optimization of full-scenario baseband design spaces.
 - **Algorithm Optimization:** AI-aided Belief Propagation (BP) and Successive Cancellation List (SCL) decoding.
 - **MIMO Systems:** Low-complexity tree search-based detection and iterative receivers.
-- **Reinforcement Learning:** Bit-width design and resource allocation in wireless systems.
 
 ---
 
 ## 🎓 Education
 - **Doctor of Engineering (Direct-PhD Program)**, Southeast University, 2022.09 – Present
-  - Major: Information and Communication Engineering
-  - GPA/Score: 83.26/100 (Ranking: **2/54**)
 - **Bachelor of Engineering (Outstanding)**, Southeast University, 2018.09 – 2022.06
-  - GPA/Score: 4.26/4.80 (Ranking: **6/245**)
 
----
-
-## 🏆 Selected Honors & Awards
-- **National Level:**
-  - National Scholarship for Doctoral Students (2025)
-  - National Scholarship for Undergraduate Students (2020)
-  - Young Science and Technology Talents Cultivation Project, CAST (2025)
-- **University Level:**
-  - President’s Scholarship, SEU (2021)
-  - Model Merit Doctoral Student, SEU (2025)
-  - Excellent Undergraduate Dissertation, SEU (2022)
-- **Competitions:**
-  - Finalist, Student Paper Competition of Asilomar Conference (2020)
 
 ---
 
@@ -84,10 +67,9 @@ My research focuses on the intersection of **AI and Wireless Communications**, w
 ---
 
 ## 💡 Patents & Projects
-- **Patents:** 3 granted patents (including a PCT international patent) and 9+ under review, covering signal detection and channel decoding.
+- **Patents:** 3 granted patents and 9 under review, covering signal detection and channel decoding.
 - **Projects:**
-  - PI of *Jiangsu Provincial Graduate Research Innovation Program* (2025-2027).
-  - Key member of *Huawei-SEU Joint Laboratory Project* on Deep Reinforcement Learning.
+  - *Jiangsu Provincial Graduate Research Innovation Program* (2025-2027).
 
 ---
 
